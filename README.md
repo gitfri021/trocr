@@ -1,7 +1,3 @@
-Certainly! Here's a creative README for your TROCR training and evaluation notebook:
-
----
-
 # 📝 TROCR Training and Evaluation Notebook
 
 Welcome to the **TROCR Training and Evaluation** notebook! This project is designed to help you train and evaluate a transformer-based Optical Character Recognition (OCR) model using the TROCR framework. Follow the steps below to get started.
@@ -23,7 +19,7 @@ This notebook provides a comprehensive guide for training and evaluating the TRO
 
 To get started, ensure you have the following libraries installed:
 
-```bash
+```
 pip install -q transformers
 pip install -q sentencepiece
 pip install -q jiwer
@@ -71,9 +67,7 @@ We welcome contributions to improve this project! Here’s how you can help:
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
@@ -81,4 +75,3 @@ We hope this notebook helps you in your OCR endeavors. Happy coding! 🚀
 
 ---
 
-Feel free to customize this README further based on your specific needs and any additional details about your project.
